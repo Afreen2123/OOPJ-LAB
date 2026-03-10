@@ -7,4 +7,5 @@ public class Demo1
 		Derived ob2 = new Derived();
 		SamePackage ob3 = new SamePackage();
 	}
+
 }
